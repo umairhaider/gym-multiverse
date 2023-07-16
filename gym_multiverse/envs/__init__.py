@@ -1,0 +1,1 @@
+from gym_multiverse.envs.multiverse import MultiverseGym
